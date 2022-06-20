@@ -16,42 +16,42 @@
         }
     },
     "empresas": {
-        "emp": {
+        "emp1": {
             "nombre": "Cadena Ser",
             "ciudad": "Pontevedra",
             "pais": "España",
             "duracion" : "2019 - 2019",
             "puesto" : "Redacción de noticias"
         },
-        "emp": {
+        "emp2": {
             "nombre": "Editorial Galaxia",
             "ciudad": "Vigo",
             "pais": "España",
             "duracion" : "2020",
             "puesto" : "Maquetación y diseño gráfico"
         },
-        "emp": {
+        "emp3": {
             "nombre": "Cersia",
             "ciudad": "Santiago de Compostela",
             "pais": "España",
             "duracion" : "2021-2022",
             "puesto" : "Ni idea"
         },
-         "emp": {
+         "emp4": {
             "nombre": "TVG",
             "ciudad": "Santiago de Compistola",
             "pais": "España",
             "duracion" : "2031-2042",
             "puesto" : "Jefa de Santi"
         },
-         "emp": {
+         "emp5": {
             "nombre": "Glululge",
             "ciudad": "Manhattan",
             "pais": "Suazilandia",
             "duracion" : "2043-2052",
             "puesto" : "Trabajando para Santi :("
         },
-         "emp": {
+         "emp6": {
             "nombre": "Fábrica de Sueños",
             "ciudad": "Pueblo Paleta",
             "pais": "Gabón",

@@ -36,7 +36,27 @@
             "pais": "España",
             "años" : "2021-2022",
             "puesto" : "Ni idea"
-        }
-
+        },
+         "emp4": {
+            "nombre": "TVG",
+            "ciudad": "Santiago de Compistola",
+            "pais": "España",
+            "años" : "2031-2042",
+            "puesto" : "Jefa de Santi"
+        },
+         "emp5": {
+            "nombre": "Glululge",
+            "ciudad": "Manhattan",
+            "pais": "Suazilandia",
+            "años" : "2043-2052",
+            "puesto" : "Trabajando para Santi :("
+        },
+         "emp6": {
+            "nombre": "Fábrica de Sueños",
+            "ciudad": "Pueblo Paleta",
+            "pais": "Gabón",
+            "años" : "2022-2085",
+            "puesto" : "Reina del mundo entero"
+        },
     }
 }
